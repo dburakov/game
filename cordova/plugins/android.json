@@ -15,6 +15,9 @@
         },
         "cordova-plugin-x-toast": {
             "PACKAGE_NAME": "org.motorhead.smartcar"
+        },
+        "cordova-plugin-hybrid": {
+            "PACKAGE_NAME": "org.motorhead.smartcar"
         }
     },
     "dependent_plugins": {}

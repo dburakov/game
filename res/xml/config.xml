@@ -27,4 +27,7 @@
     <feature name="Toast">
         <param name="android-package" value="nl.xservices.plugins.Toast" />
     </feature>
+    <feature name="HybridBridge">
+        <param name="android-package" value="org.sample.hybrid.HybridBridge" />
+    </feature>
 </widget>

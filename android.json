@@ -19,6 +19,10 @@
                         {
                             "xml": "<feature name=\"Toast\"><param name=\"android-package\" value=\"nl.xservices.plugins.Toast\" /></feature>",
                             "count": 1
+                        },
+                        {
+                            "xml": "<feature name=\"HybridBridge\"><param name=\"android-package\" value=\"org.sample.hybrid.HybridBridge\" /></feature>",
+                            "count": 1
                         }
                     ]
                 }
@@ -33,6 +37,9 @@
             "PACKAGE_NAME": "org.motorhead.smartcar"
         },
         "cordova-plugin-x-toast": {
+            "PACKAGE_NAME": "org.motorhead.smartcar"
+        },
+        "cordova-plugin-hybrid": {
             "PACKAGE_NAME": "org.motorhead.smartcar"
         }
     },
@@ -60,11 +67,19 @@
         {
             "file": "plugins/cordova-plugin-x-toast/test/tests.js",
             "id": "cordova-plugin-x-toast.tests"
+        },
+        {
+            "file": "plugins/cordova-plugin-hybrid/www/HybridBridge.js",
+            "id": "cordova-plugin-hybrid.HybridBridge",
+            "clobbers": [
+                "HybridBridge"
+            ]
         }
     ],
     "plugin_metadata": {
         "cordova-plugin-whitelist": "1.2.1",
         "cordova-plugin-device": "1.1.1",
-        "cordova-plugin-x-toast": "2.5.0"
+        "cordova-plugin-x-toast": "2.5.0",
+        "cordova-plugin-hybrid": "1.0.0"
     }
 }

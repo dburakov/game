@@ -1,3 +1,5 @@
+package org.motorhead.smartcar;
+
 import android.app.ListActivity;
 import android.content.Intent;
 import android.os.Bundle;

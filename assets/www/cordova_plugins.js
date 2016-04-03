@@ -22,6 +22,13 @@ module.exports = [
     {
         "file": "plugins/cordova-plugin-x-toast/test/tests.js",
         "id": "cordova-plugin-x-toast.tests"
+    },
+    {
+        "file": "plugins/cordova-plugin-hybrid/www/HybridBridge.js",
+        "id": "cordova-plugin-hybrid.HybridBridge",
+        "clobbers": [
+            "HybridBridge"
+        ]
     }
 ];
 module.exports.metadata = 
@@ -29,7 +36,8 @@ module.exports.metadata =
 {
     "cordova-plugin-whitelist": "1.2.1",
     "cordova-plugin-device": "1.1.1",
-    "cordova-plugin-x-toast": "2.5.0"
+    "cordova-plugin-x-toast": "2.5.0",
+    "cordova-plugin-hybrid": "1.0.0"
 };
 // BOTTOM OF METADATA
 });
