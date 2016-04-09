@@ -9,103 +9,8 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3bea4af3-19c3-4244-8f05-1ca2f9dac191" name="Default" comment="del tmp files">
+    <list default="true" id="3bea4af3-19c3-4244-8f05-1ca2f9dac191" name="Default" comment="">
       <change type="DELETED" beforePath="D:\Files\work\android\smartcar\.idea\workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\bundles\debug\AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\bundles\debug\aapt\AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\bundles\debug\classes.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\AuthenticationToken.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CallbackContext.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CallbackMap.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\Config.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\ConfigXmlParser.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaActivity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaActivity$2.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaActivity$3.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaActivity$4$1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaActivity$4.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaArgs.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaBridge.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaClientCertRequest.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaDialogsHelper$1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaDialogsHelper$2.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaDialogsHelper$3.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaDialogsHelper$4.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaDialogsHelper$5.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaDialogsHelper$6.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaDialogsHelper$7.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaDialogsHelper$8.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaDialogsHelper$9.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaDialogsHelper$Result.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaDialogsHelper.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaHttpAuthHandler.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaInterface.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaInterfaceImpl$ActivityResultHolder.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaInterfaceImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaPlugin.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaPreferences.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaResourceApi$OpenForReadResult.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaResourceApi.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaWebView.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaWebViewEngine$Client.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaWebViewEngine$EngineView.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaWebViewEngine.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaWebViewImpl$1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaWebViewImpl$2.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaWebViewImpl$3.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaWebViewImpl$EngineClient$1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaWebViewImpl$EngineClient$1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaWebViewImpl$EngineClient.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaWebViewImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CoreAndroid$1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CoreAndroid$2.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CoreAndroid$3.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CoreAndroid$4.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CoreAndroid$5.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CoreAndroid.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\ExposedJsApi.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\ICordovaClientCertRequest.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\ICordovaCookieManager.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\ICordovaHttpAuthHandler.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\LOG.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\NativeToJsMessageQueue$BridgeMode.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\NativeToJsMessageQueue$JsMessage.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\NativeToJsMessageQueue$LoadUrlBridgeMode$1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\NativeToJsMessageQueue$LoadUrlBridgeMode.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\NativeToJsMessageQueue$NoOpBridgeMode.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\NativeToJsMessageQueue$OnlineEventsBridgeMode$1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\NativeToJsMessageQueue$OnlineEventsBridgeMode$2.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\NativeToJsMessageQueue$OnlineEventsBridgeMode$OnlineEventsBridgeModeDelegate.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\NativeToJsMessageQueue$OnlineEventsBridgeMode.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\NativeToJsMessageQueue.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\PluginEntry.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\PluginManager.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\PluginResult$Status.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\PluginResult.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\ResumeCallback.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\Whitelist$URLPattern.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\Whitelist.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\engine\SystemCookieManager.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\engine\SystemExposedJsApi.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\engine\SystemWebChromeClient$1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\engine\SystemWebChromeClient$2.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\engine\SystemWebChromeClient$3.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\engine\SystemWebChromeClient$4.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\engine\SystemWebChromeClient$5.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\engine\SystemWebChromeClient.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\engine\SystemWebView.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\engine\SystemWebViewClient.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\engine\SystemWebViewEngine$1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\engine\SystemWebViewEngine$2.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\engine\SystemWebViewEngine.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\incremental\compileDebugAidl\dependency.store" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\incremental\mergeDebugAssets\merger.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\incremental\mergeDebugJniLibFolders\merger.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\incremental\packageDebugResources\merger.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\outputs\aar\CordovaLib-debug.aar" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
     </list>
     <ignored path="smartcar.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -136,7 +41,7 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4077491">
+            <state vertical-scroll-proportion="0.9404255">
               <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
               <folding />
             </state>
@@ -1833,20 +1738,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smartcar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smartcar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CordovaLib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane">
@@ -2252,7 +2143,13 @@
       <option name="project" value="LOCAL" />
       <updated>1460195358249</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="del tmp files">
+      <created>1460195615120</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1460195615120</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -2267,7 +2164,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5142379" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.5142379" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290469" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3283082" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -2449,7 +2346,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4077491">
+        <state vertical-scroll-proportion="0.9404255">
           <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
           <folding />
         </state>
