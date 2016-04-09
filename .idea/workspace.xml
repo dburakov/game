@@ -2155,7 +2155,13 @@
       <option name="project" value="LOCAL" />
       <updated>1460195759614</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="del tmp files">
+      <created>1460195888524</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1460195888524</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
