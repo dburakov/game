@@ -9,7 +9,126 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3bea4af3-19c3-4244-8f05-1ca2f9dac191" name="Default" comment="" />
+    <list default="true" id="3bea4af3-19c3-4244-8f05-1ca2f9dac191" name="Default" comment="app name">
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\.gradle\2.8\taskArtifacts\cache.properties" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\.gradle\2.8\taskArtifacts\cache.properties.lock" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\.gradle\2.8\taskArtifacts\fileHashes.bin" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\.gradle\2.8\taskArtifacts\fileSnapshots.bin" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\.gradle\2.8\taskArtifacts\outputFileStates.bin" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\.gradle\2.8\taskArtifacts\taskArtifacts.bin" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\.idea\.name" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\.idea\compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\.idea\copyright\profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\.idea\encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\.idea\gradle.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\.idea\misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\.idea\modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\.idea\runConfigurations.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\.idea\vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\.idea\workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\generated\source\buildConfig\androidTest\debug\org\apache\cordova\test\BuildConfig.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\generated\source\buildConfig\debug\org\apache\cordova\BuildConfig.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\bundles\debug\AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\bundles\debug\aapt\AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\bundles\debug\classes.jar" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\AuthenticationToken.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CallbackContext.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CallbackMap.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\Config.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\ConfigXmlParser.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaActivity$3.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaActivity$4$1.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaActivity$4.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaArgs.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaBridge.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaClientCertRequest.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaDialogsHelper$1.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaDialogsHelper$2.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaDialogsHelper$3.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaDialogsHelper$4.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaDialogsHelper$5.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaDialogsHelper$6.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaDialogsHelper$7.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaDialogsHelper$8.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaDialogsHelper$9.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaDialogsHelper$Result.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaDialogsHelper.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaHttpAuthHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaInterface.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaInterfaceImpl$ActivityResultHolder.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaInterfaceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaPlugin.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaPreferences.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaResourceApi$OpenForReadResult.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaResourceApi.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaWebView.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaWebViewEngine$Client.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaWebViewEngine$EngineView.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaWebViewEngine.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaWebViewImpl$1.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaWebViewImpl$2.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaWebViewImpl$3.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaWebViewImpl$EngineClient$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaWebViewImpl$EngineClient$1.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaWebViewImpl$EngineClient.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CordovaWebViewImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CoreAndroid$1.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CoreAndroid$2.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CoreAndroid$3.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CoreAndroid$4.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CoreAndroid$5.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\CoreAndroid.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\ExposedJsApi.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\ICordovaClientCertRequest.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\ICordovaCookieManager.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\ICordovaHttpAuthHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\LOG.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\NativeToJsMessageQueue$BridgeMode.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\NativeToJsMessageQueue$JsMessage.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\NativeToJsMessageQueue$LoadUrlBridgeMode$1.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\NativeToJsMessageQueue$LoadUrlBridgeMode.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\NativeToJsMessageQueue$NoOpBridgeMode.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\NativeToJsMessageQueue$OnlineEventsBridgeMode$1.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\NativeToJsMessageQueue$OnlineEventsBridgeMode$2.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\NativeToJsMessageQueue$OnlineEventsBridgeMode$OnlineEventsBridgeModeDelegate.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\NativeToJsMessageQueue$OnlineEventsBridgeMode.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\NativeToJsMessageQueue.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\PluginEntry.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\PluginManager.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\PluginResult$Status.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\PluginResult.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\ResumeCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\Whitelist$URLPattern.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\Whitelist.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\engine\SystemCookieManager.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\engine\SystemExposedJsApi.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\engine\SystemWebChromeClient$1.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\engine\SystemWebChromeClient$2.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\engine\SystemWebChromeClient$3.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\engine\SystemWebChromeClient$4.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\engine\SystemWebChromeClient$5.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\engine\SystemWebChromeClient.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\engine\SystemWebView.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\engine\SystemWebViewClient.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\engine\SystemWebViewEngine$1.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\engine\SystemWebViewEngine$2.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\classes\debug\org\apache\cordova\engine\SystemWebViewEngine.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\incremental\compileDebugAidl\dependency.store" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\incremental\compileDebugAndroidTestAidl\dependency.store" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\incremental\mergeDebugAndroidTestAssets\merger.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\incremental\mergeDebugAndroidTestResources\merger.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\incremental\mergeDebugAssets\merger.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\incremental\mergeDebugJniLibFolders\merger.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\incremental\packageDebugResources\merger.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\manifest\androidTest\debug\AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\intermediates\res\resources-debug-androidTest.ap_" afterPath="" />
+      <change type="DELETED" beforePath="D:\Files\work\android\smartcar\CordovaLib\build\outputs\aar\CordovaLib-debug.aar" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+    </list>
     <ignored path="smartcar.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,33 +155,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="HybridBridge.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/sample/hybrid/HybridBridge.java">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="21" column="60" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="60" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/assets/www/js/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2918455">
-              <caret line="41" column="6" selection-start-line="41" selection-start-column="6" selection-end-line="41" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HybridBridge.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/www/plugins/cordova-plugin-hybrid/www/HybridBridge.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="7" column="57" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="57" />
+            <state vertical-scroll-proportion="0.4391144">
+              <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -1698,11 +1795,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/res/layout/activity_list.xml" />
-        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/assets/www/index.html" />
         <option value="$PROJECT_DIR$/src/org/motorhead/smartcar/MyListActivity.java" />
         <option value="$PROJECT_DIR$/src/org/sample/hybrid/HybridBridge.java" />
         <option value="$PROJECT_DIR$/assets/www/js/index.js" />
+        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -1726,7 +1825,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="AndroidView" proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -1738,10 +1837,109 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="smartcar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="smartcar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="smartcar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane />
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Problems" />
+        <subPane subId="Production">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="smartcar">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="smartcar">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="CordovaLib">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="CordovaLib">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <subPane subId="Tests">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="smartcar">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="smartcar">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="build/generated/source/buildConfig/androidTest/debug">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="org/motorhead/smartcar/test">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches">
+        <subPane />
+      </pane>
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -1766,54 +1964,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="www" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smartcar" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smartcar" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="plugins" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smartcar" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smartcar" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="plugins" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -1934,6 +2084,7 @@
     <property name="recentsLimit" value="5" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="SH48PWM01232" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="Nexus_5_API_23_x86" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../smartcar-pure" />
   </component>
   <component name="RunManager" selected="Android Application.smartcar">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
@@ -2105,11 +2256,18 @@
       <option name="number" value="Default" />
       <updated>1459634623970</updated>
     </task>
+    <task id="LOCAL-00001" summary="app name">
+      <created>1459708399140</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1459708399140</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -2119,18 +2277,18 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.5142379" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5142379" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290469" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32902032" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3283082" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24281392" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24281392" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -2143,8 +2301,20 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="app name" />
+    <option name="LAST_COMMIT_MESSAGE" value="app name" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -2153,14 +2323,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/www/plugins/cordova-plugin-device/www/device.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.3852813">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/org/apache/cordova/device/Device.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.44155845">
@@ -2185,16 +2347,6 @@
         <state vertical-scroll-proportion="-0.508658">
           <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.519084">
-          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-          <folding>
-            <element signature="e#738#761#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2237,17 +2389,35 @@
         <state vertical-scroll-proportion="0.38931298">
           <caret line="11" column="27" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="27" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#317#325#0" expanded="true" />
-            <element signature="e#882#890#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#317#325#0" expanded="false" />
+            <element signature="e#882#890#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.7251909">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#858#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/www/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.3448277">
+          <caret line="41" column="6" selection-start-line="41" selection-start-column="6" selection-end-line="41" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/www/plugins/cordova-plugin-hybrid/www/HybridBridge.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="57" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="57" />
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -2255,17 +2425,41 @@
     <entry file="file://$PROJECT_DIR$/src/org/sample/hybrid/HybridBridge.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="60" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="60" />
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12546125">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/www/plugins/cordova-plugin-device/www/device.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6414763">
+          <caret line="80" column="48" selection-start-line="80" selection-start-column="42" selection-end-line="80" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32864675">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#581#599#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/www/js/index.js">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2918455">
-          <caret line="41" column="6" selection-start-line="41" selection-start-column="6" selection-end-line="41" selection-end-column="6" />
+        <state vertical-scroll-proportion="0.4391144">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
           <folding />
         </state>
       </provider>
