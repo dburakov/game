@@ -45,22 +45,22 @@
     },
     "installed_plugins": {
         "cordova-plugin-whitelist": {
-            "PACKAGE_NAME": "org.motorhead.smartcar"
+            "PACKAGE_NAME": "org.smartcar.smartcar"
         },
         "cordova-plugin-device": {
-            "PACKAGE_NAME": "org.motorhead.smartcar"
+            "PACKAGE_NAME": "org.smartcar.smartcar"
         },
         "cordova-plugin-x-toast": {
-            "PACKAGE_NAME": "org.motorhead.smartcar"
+            "PACKAGE_NAME": "org.smartcar.smartcar"
         },
         "cordova-plugin-hybrid": {
-            "PACKAGE_NAME": "org.motorhead.smartcar"
+            "PACKAGE_NAME": "org.smartcar.smartcar"
         },
         "cordova-plugin-compat": {
-            "PACKAGE_NAME": "org.motorhead.smartcar"
+            "PACKAGE_NAME": "org.smartcar.smartcar"
         },
         "cordova-plugin-camera": {
-            "PACKAGE_NAME": "org.motorhead.smartcar"
+            "PACKAGE_NAME": "org.smartcar.smartcar"
         }
     },
     "dependent_plugins": {},

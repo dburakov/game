@@ -17,7 +17,7 @@
        under the License.
  */
 
-package org.motorhead.smartcar;
+package org.smartcar.smartcar;
 
 import android.os.Bundle;
 import org.apache.cordova.*;

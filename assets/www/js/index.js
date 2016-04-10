@@ -26,7 +26,7 @@ var app = {
     addItem: function() {
         console.log("Plugin ADD ITEM CALLED " + HybridBridge);
         var item = document.getElementById("bookmark").value;
-        HybridBridge.addItem(item, "org.motorhead.smartcar.MyListActivity",
+        HybridBridge.addItem(item, "org.smartcar.smartcar.MyListActivity",
             function(){
                 console.log("Hybrid Bridge Success")
             }, function(e){

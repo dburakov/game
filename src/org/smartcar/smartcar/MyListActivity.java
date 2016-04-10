@@ -1,11 +1,9 @@
-package org.motorhead.smartcar;
+package org.smartcar.smartcar;
 
 import android.app.ListActivity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.widget.ArrayAdapter;
-
-import org.motorhead.smartcar.R;
 
 import java.util.ArrayList;
 
