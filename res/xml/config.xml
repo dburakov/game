@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="io.cordova.helloCordova" version="2.0.0" xmlns="http://www.w3.org/ns/widgets">
-    <name>Hello Cordova</name>
+<widget id="io.cordova.index" version="2.0.0" xmlns="http://www.w3.org/ns/widgets">
+    <name>Smart Car</name>
     <description>
-        A sample Apache Cordova application that responds to the deviceready event.
+        Smart Car application
     </description>
-    <author email="dev@cordova.apache.org" href="http://cordova.io">
-        Apache Cordova Team
+    <author>
+        Dmitry Burakov
     </author>
     <content src="index.html" />
     <access origin="*" />
@@ -28,7 +28,7 @@
         <param name="android-package" value="nl.xservices.plugins.Toast" />
     </feature>
     <feature name="HybridBridge">
-        <param name="android-package" value="org.sample.hybrid.HybridBridge" />
+        <param name="android-package" value="org.smartcar.smartcar.HybridBridge" />
     </feature>
     <feature name="Camera">
         <param name="android-package" value="org.apache.cordova.camera.CameraLauncher" />

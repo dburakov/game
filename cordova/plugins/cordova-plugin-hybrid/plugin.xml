@@ -31,7 +31,7 @@
     <platform name="android">
         <config-file target="res/xml/config.xml" parent="/*">
             <feature name="HybridBridge">
-                <param name="android-package" value="org.sample.hybrid.HybridBridge" />
+                <param name="android-package" value="org.smartcar.smartcar.HybridBridge" />
             </feature>
         </config-file>
         <source-file src="src/android/org/sample/hybrid/HybridBridge.java" target-dir="src/org/sample/hybrid"/>
