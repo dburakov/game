@@ -18,7 +18,14 @@
         },
         "cordova-plugin-hybrid": {
             "PACKAGE_NAME": "org.motorhead.smartcar"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "org.motorhead.smartcar"
         }
     },
-    "dependent_plugins": {}
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "org.motorhead.smartcar"
+        }
+    }
 }

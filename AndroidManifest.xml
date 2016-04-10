@@ -9,10 +9,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name=".MyListActivity"
-            android:label="MyListActivity">
+        <activity android:label="MyListActivity" android:name=".MyListActivity">
         </activity>
     </application>
     <uses-sdk android:minSdkVersion="14" android:targetSdkVersion="23" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 </manifest>

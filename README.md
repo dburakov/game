@@ -10,7 +10,6 @@ Clone, import to Android Studio, run.
 
 ## TODO:
 
-* make photos
 * store photos on server
 * provide VIN data
 
